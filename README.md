@@ -18,8 +18,6 @@
 
 Files and Description
 =================================
-part1:
-======
 Data collection scripts:
 	ccCollectionClient.py 		- To collect data under data/cc from Common Crawl.
 	nyTimesCollectionClient.py      - To collect data under data/nyt from NYTimes.
