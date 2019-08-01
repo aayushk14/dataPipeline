@@ -51,5 +51,8 @@ python frequentWords.py -operations <wc/coo> - this command will sort the word c
 
 3.All the images and visualisation files are available at data/output_images.
 
+4. The Tableau visualisation can be found at below URL:
+https://public.tableau.com/profile/aayush2816#!/vizhome/DIC-LAB2/Story2
+
 Pre-requisite for running hadoop docker instance:
 docker run --hostname=quickstart.cloudera --privileged=true -t -i -v /Users/apple/Documents/sem2/DIC/projects/lab2:/src --publish-all=true -p 8888 cloudera/quickstart /usr/bin/docker-quickstart
