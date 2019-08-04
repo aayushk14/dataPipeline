@@ -1,5 +1,10 @@
-##################       CSE 587 Lab 2 README        #####################
-################## UBITName - aayushku and smishra9 ######################
+<p align="center">
+  <b>CSE 587 Lab 2</b><br>
+	By Aayush and Sidharth
+  <br><br>
+</p>
+
+---------------
 
 1. We have chosen a topic "Economy" for USA for our study as part of this Lab.
 
