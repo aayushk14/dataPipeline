@@ -1,7 +1,6 @@
 <p align="center">
   <b>CSE 587 Lab 2</b><br>
 	By Aayush and Sidharth
-  <br><br>
 </p>
 
 ---------------
